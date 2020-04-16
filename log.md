@@ -18,7 +18,7 @@ CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 **Thoughts** Round 2 Day 1
 
 **Link(s) to work:** (Progress made up to this point)
-[Basic JavaScript: Idential Options in Switch Statements]
+[Basic JavaScript: Identical Options in Switch Statements]
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiple-identical-options-in-switch-statements
 
 DONE ROUND 1
