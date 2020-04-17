@@ -13,9 +13,22 @@ CSS Flexbox, CSS Grid   |
 Front End Development Certificate Earned | 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
-**Today's Progress**:  JavaScript switch statements
+R2D2 Round 2 Day 2 April 17, 2020
 
-**Thoughts** Round 2 Day 1
+**Today's Progress**:  FCC
+
+**Thoughts** JS objects
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Testing Objects for Properties]
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties
+
+R2D1 Round 2 Day 1 April 16, 2020
+
+**Today's Progress**:  FCC
+
+**Thoughts** JS switch statements
 
 **Link(s) to work:** (Progress made up to this point)
 [Basic JavaScript: Identical Options in Switch Statements]
