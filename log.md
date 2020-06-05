@@ -13,7 +13,7 @@ CSS Flexbox, CSS Grid   |
 Front End Development Certificate Earned | 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
-R2D4 Round 2 Day 7 June 5, 2020
+R2D7 Round 2 Day 7 June 5, 2020
 
 **Today's Progress**:  Skillcrush Advanced CSS (Flexbox and Grid)
 
@@ -22,7 +22,7 @@ R2D4 Round 2 Day 7 June 5, 2020
 **Link(s) to work:** (Progress made up to this point)
 (within private login for Skillcrush course)
 
-R2D4 Round 2 Days 5 and 6 June 4, 2020
+R2D6 Round 2 Days 5 and 6 June 4, 2020
 
 **Today's Progress**:  Skillcrush Advanced CSS (Flexbox and Grid)
 
