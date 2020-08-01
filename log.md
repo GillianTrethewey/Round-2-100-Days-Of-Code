@@ -11,7 +11,17 @@ Applied Accessibility  | This log under GitHub control
 Responsive Web Design  | GIT and GITHUB
 CSS Flexbox, CSS Grid   | 
 Front End Development Certificate Earned | 
-CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
+CURRENT: JavaScript FCC| CURRENT: Advanced CSS (Flexbox and Grid)
+CURRENT: JavaScript Udemy
+
+R2D7 Round 2 Day 8-11 July 28-31, 2020
+
+**Today's Progress**:  JavaScript Udemy
+
+**Thoughts** no semi-colon needed at the end of lines
+
+**Link(s) to work:** (Progress made up to this point)
+(within private login for Udemy users)
 
 R2D7 Round 2 Day 7 June 5, 2020
 
