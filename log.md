@@ -14,6 +14,15 @@ Front End Development Certificate Earned |
 CURRENT: JavaScript FCC| CURRENT: Advanced CSS (Flexbox and Grid)
 CURRENT: JavaScript Udemy
 
+R2D7 Round 2 Day 14 August 6, 2020
+
+**Today's Progress**:  JavaScript Udemy
+
+**Thoughts** Variable Scope: Part I
+
+**Link(s) to work:** (Progress made up to this point)
+(within private login for Udemy users)
+
 R2D7 Round 2 Day 13 updated August 5, 2020
 
 **Today's Progress**:  JavaScript Udemy
