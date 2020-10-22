@@ -11,8 +11,21 @@ Applied Accessibility  | This log under GitHub control
 Responsive Web Design  | GIT and GITHUB
 CSS Flexbox, CSS Grid   | 
 Front End Development Certificate Earned | 
-CURRENT: JavaScript FCC| CURRENT: Advanced CSS (Flexbox and Grid)
-CURRENT: JavaScript Udemy
+CURRENT: JavaScript Udemy| CURRENT: Advanced CSS (Flexbox and Grid)
+CURRENT: SASS Udemy
+
+R2D41 Round 2 Day 41 October 23,2020
+
+R2D40 Round 2 Day 26-40 October 22, 2020
+
+**Progress**: SASS Udemy
+
+**What is going on**: Switched to SASS so I can work better with my developer mentor. Will be back to JavaScript afterwards. Building a dummy website with SASS and Flexbox according to the Udemy course.
+
+Also rebuilt my business website with the Sample Theme from Genesis and used CSS Grid to populate the product grids. 
+
+**Thoughts**: Thinking about DRY in CSS vs DRY in SASS - cleaning up the SASS files seems to clutter the CSS files. 
+
 
 R2D7 Round 2 Day 15-25 September 2, 2020
 
