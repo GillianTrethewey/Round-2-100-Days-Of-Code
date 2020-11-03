@@ -14,6 +14,9 @@ Front End Development Certificate Earned |
 CURRENT: JavaScript Udemy| CURRENT: Advanced CSS (Flexbox and Grid)
 CURRENT: SASS Udemy
 
+R2D42 Round 2 Day 41 November 3, 2020
+Testing new SSH Public key generated.
+
 R2D41 Round 2 Day 41 October 23,2020
 
 R2D40 Round 2 Day 26-40 October 22, 2020
