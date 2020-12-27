@@ -3,16 +3,27 @@
 # Completed Courses #
 FREE CODE CAMP  | SKILLCRUSH
 ------------- | -------------
-Responsive Web Design Certification  | Phase 1: Foundation
+Responsive Web Design Certification  | Phase 1: Foundation Skillcrush
 Basic HTML and HTML5  | HTML5 
 Basic CSS  | CSS
 Applied Visual Design  | Portfolio Project
 Applied Accessibility  | This log under GitHub control
 Responsive Web Design  | GIT and GITHUB
 CSS Flexbox, CSS Grid   | 
-Front End Development Certificate Earned | 
-CURRENT: JavaScript Udemy| CURRENT: Advanced CSS (Flexbox and Grid)
+Front End Development Certificate Earned 
+
+COURSES
+-------------
 CURRENT: SASS Udemy
+FUTURE: JavaScript Udemy
+
+R2D47 Round 2 Day 47 December 27, 2020
+**Progress**: SASS Udemy
+**What is going on**: Focus on one course at a time and code daily. Back to SASS course from Udemy.
+
+R2D46 Round 2 Day 42-46 December 24, 2020
+**Progress**: CSS
+**What is going on**: Dec. 19 - Dec 24th: Intensive - worked on customizing a Divi theme with CSS for my developer mentor. Learned about pseudo elements and :after state. 
 
 R2D42 Round 2 Day 41 November 3, 2020
 Testing new SSH Public key generated.
