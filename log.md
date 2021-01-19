@@ -18,21 +18,25 @@ CURRENT: SASS Udemy
 FUTURE: JavaScript Udemy
 
 R2D48 Round 2 Day 48,49,50 January 16-18, 2020
+
 **Progress**: Shay Howe CSS, SASS Udemy, Geek Pack
 
 **What is going on**: Over the last 3 days: small projects on websites plus courses. Mobile styling with media queries. Mailchimp insertion and styling today, small fixes on Divi website. Using Local by Flywheel to push and pull from WPEngine. Using the WordPress Customizer for small fixes.
 
 R2D47 Round 2 Day 47 December 27, 2020
+
 **Progress**: SASS Udemy
 
 **What is going on**: Code daily. 
 
 R2D46 Round 2 Day 42-46 December 24, 2020
+
 **Progress**: CSS
 
 **What is going on**: Dec. 19 - Dec 24th: Intensive - worked on customizing a Divi theme with CSS for my developer mentor. Learned about pseudo elements and :after state. 
 
 R2D42 Round 2 Day 41 November 3, 2020
+
 Testing new SSH Public key generated.
 
 R2D41 Round 2 Day 41 October 23,2020
