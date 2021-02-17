@@ -14,7 +14,7 @@ Front End Development Certificate Earned
 
 COURSES
 -------------
-CURRENT: SASS Udemy
+CURRENT: CSS Shay Howe, Geek Pack WordPress, SASS Udemy
 FUTURE: JavaScript Udemy
 
 R2D48 Round 2 Day 48,49,50 January 16-18, 2020
