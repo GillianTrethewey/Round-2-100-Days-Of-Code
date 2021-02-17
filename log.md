@@ -17,6 +17,12 @@ COURSES
 CURRENT: CSS Shay Howe, Geek Pack WordPress, SASS Udemy
 FUTURE: JavaScript Udemy
 
+R2D50 Round 2 Day 50,51 February 16-17, 2021
+
+**Progress**: SASS Udemy (second round)
+
+**What is going on**: Besides regular coding and fixes developing using Local, going through SASS Udemy course for the second time to understand better the workflow.
+
 R2D48 Round 2 Day 48,49,50 January 16-18, 2020
 
 **Progress**: Shay Howe CSS, SASS Udemy, Geek Pack
