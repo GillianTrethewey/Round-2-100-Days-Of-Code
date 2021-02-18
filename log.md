@@ -17,7 +17,13 @@ COURSES
 CURRENT: CSS Shay Howe, Geek Pack WordPress, SASS Udemy
 FUTURE: JavaScript Udemy
 
-R2D50 Round 2 Day 50,51 February 16-17, 2021
+R2D52 Round 2 Day 52 February 18, 2021
+
+**Progress**: SASS Udemy (second round)
+
+**What is going on**: Realization that in this course, the teacher makes specific classes for each and every html element. This makes it easier to organize the SASS document in a way that makes it more readable. In addition, you're not fussing around with trying to target an element with a lot of specifiers - instead you use the specific specifier.
+
+R2D51 Round 2 Day 50,51 February 16-17, 2021
 
 **Progress**: SASS Udemy (second round)
 
