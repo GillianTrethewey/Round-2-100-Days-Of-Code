@@ -17,6 +17,12 @@ COURSES
 CURRENT: CSS Shay Howe, Geek Pack WordPress, SASS Udemy
 FUTURE: JavaScript Udemy
 
+R2D53 Round 2 Day 53 February 19, 2021
+
+**Progress**: SASS Udemy (second round)
+
+**What is going on**:Advanced Data types in SASS
+
 R2D52 Round 2 Day 52 February 18, 2021
 
 **Progress**: SASS Udemy (second round)
