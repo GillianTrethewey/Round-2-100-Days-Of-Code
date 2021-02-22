@@ -17,6 +17,12 @@ COURSES
 CURRENT: CSS Shay Howe, Geek Pack WordPress, SASS Udemy
 FUTURE: JavaScript Udemy
 
+R2D56 Round 2 Day 56 February 22
+
+**Progress**: SASS Udemy (second round)
+
+**What is going on**: Setting up Project 2 - uninstalled node, sass, yarn etc. from mac and then reinstalled using homebrew. Set up file structure for Project 2 and created a package.json file to 'watch' the scss files for changes and compile them to css. The instructor is using map-get along with a color function. In addition, he is using CSS Grid to set up the storefront. This adds to my knowledge about CSS Grid and it is nice to see it in action in an example project.
+
 R2D55 Round 2 Day 55 February 20, 21
 
 **Progress**: SASS Udemy (second round)
